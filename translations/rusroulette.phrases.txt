@@ -1,0 +1,105 @@
+// Доступные цвета: "{WHITE}", "{RED}", "{GREEN}", "{LIME}", "{LIGHTGREEN}", "{LIGHTRED}", "{GRAY}", "{LIGHTOLIVE}", "{OLIVE}", "{LIGHTBLUE}", "{BLUE}", "{PURPLE}"
+"Phrases"
+{
+	"0"
+	{
+		"#format"	"{1:i}"
+		"en"		"{DEFAULT}{1} {GREEN}| Untwist the drum, bring to the temple"
+		"ru"		"{DEFAULT}{1} {GREEN}| Раскручиваем барабан, подносим к виску"
+	}
+	
+	"1"
+	{
+		"#format"	"{1:i}"
+		"en"		"{DEFAULT}{1} {GREEN}| Pull the trigger."
+		"ru"		"{DEFAULT}{1} {GREEN}| Спускаем крючок."
+	}
+	
+	"2"
+	{
+		"#format"	"{1:i}"
+		"en"		"{DEFAULT}{1} {GREEN}| Heard a click, looks like you're lucky!"
+		"ru"		"{DEFAULT}{1} {GREEN}| Слышен щелчок, похоже вам везет!"
+	}
+	
+	"3"
+	{
+		"#format"	"{1:i}"
+		"en"		"{DEFAULT}{1} {GREEN}| Try again, turn the drum"
+		"ru"		"{DEFAULT}{1} {GREEN}| Пробуем ещё раз, крутим барабан."
+	}
+	
+	"4"
+	{
+		"#format"	"{1:i}"
+		"en"		"{DEFAULT}{1} {GREEN}| We bring the revolver to his temple."
+		"ru"		"{DEFAULT}{1} {GREEN}| Подносим револьвер к виску."
+	}
+	
+	"5"
+	{
+		"#format"	"{1:i}"
+		"en"		"{DEFAULT}{1} {GREEN}| Pull the trigger."
+		"ru"		"{DEFAULT}{1} {GREEN}| Спускаем курок."
+	}
+	
+	"chr_win"
+	{
+		"en"		"{DEFAULT}Click! {GREEN}Looks like you got lucky this time!"
+		"ru"		"{DEFAULT}Щелчок! {GREEN}Похоже тебе повезло на этот раз!"
+	}
+	
+	"chr_lose"
+	{
+		"en"		"{RED}BANG! {GREEN}Looks like you're out of luck!"
+		"ru"		"{RED}БАХ! {GREEN}Похоже тебе не повезло!"
+	}
+	
+	"chr_next"
+	{
+		"en"		"{GREEN}Your punishment awaits you in the next round"
+		"ru"		"{GREEN}Твое наказание ждет тебя в следующем раунде"
+	}
+
+	"chr_slay"
+	{
+		"#format"	"{1:i}"
+		"en"	"{DEFAULT}If you drop {RED}{1}{DEFAULT}, you will be killed!"
+		"ru"	"{DEFAULT}Если выпадет {RED}{1}{DEFAULT}, то вы будете убиты!"
+	}
+
+	"chr_kick"
+	{
+		"#format"	"{1:i}"
+		"en"	"{DEFAULT}If you drop {RED}{1}{DEFAULT}, you will be kicked out!"
+		"ru"	"{DEFAULT}Если выпадет {RED}{1}{DEFAULT}, то вы будете кикнуты!"
+	}
+
+	"chr_kick_msg"
+	{
+		"en"	"You are not lucky, young knight!"
+		"ru"	"Вам не свезло, о юный рыцарь!"
+	}
+
+	"chr_burn"
+	{
+		"#format"	"{1:i}"
+		"en"	"{DEFAULT}If you drop {RED}{1}{DEFAULT}, you will be burned!"
+		"ru"	"{DEFAULT}Если выпадет {RED}{1}{DEFAULT}, то вы будете сожжены!"
+	}
+
+	"chr_jail"
+	{
+		"#format"	"{1:i}"
+		"en"	"{DEFAULT}If you drop {RED}{1}{DEFAULT}, you will be planted on the bottle!"
+		"ru"	"{DEFAULT}Если выпадет {RED}{1}{DEFAULT}, то вы будете посажены на бутылку!"
+	}
+
+	"chr_mazochist"
+	{
+		"#format"	"{1:i}"
+		"en"	"{DEFAULT}If you drop {RED}{1}{DEFAULT}, you will become a masochist!"
+		"ru"	"{DEFAULT}Если выпадет {RED}{1}{DEFAULT}, то вы станете мазохистом!"
+	}
+
+}
